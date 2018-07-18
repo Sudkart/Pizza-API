@@ -1,0 +1,12 @@
+D:\TFS\Testing\Samples\STM_API\STM.Core\bin\Release\netcoreapp2.0\STM.Core.deps.json
+D:\TFS\Testing\Samples\STM_API\STM.Core\bin\Release\netcoreapp2.0\STM.Core.dll
+D:\TFS\Testing\Samples\STM_API\STM.Core\bin\Release\netcoreapp2.0\STM.Core.pdb
+D:\TFS\Testing\Samples\STM_API\STM.Core\bin\Release\netcoreapp2.0\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\TFS\Testing\Samples\STM_API\STM.Core\bin\Release\netcoreapp2.0\STMAPI.dll
+D:\TFS\Testing\Samples\STM_API\STM.Core\bin\Release\netcoreapp2.0\STMAPI.pdb
+D:\TFS\Testing\Samples\STM_API\STM.Core\obj\Release\netcoreapp2.0\STM.Core.csprojResolveAssemblyReference.cache
+D:\TFS\Testing\Samples\STM_API\STM.Core\obj\Release\netcoreapp2.0\STM.Core.csproj.CoreCompileInputs.cache
+D:\TFS\Testing\Samples\STM_API\STM.Core\obj\Release\netcoreapp2.0\STM.Core.AssemblyInfoInputs.cache
+D:\TFS\Testing\Samples\STM_API\STM.Core\obj\Release\netcoreapp2.0\STM.Core.AssemblyInfo.cs
+D:\TFS\Testing\Samples\STM_API\STM.Core\obj\Release\netcoreapp2.0\STM.Core.dll
+D:\TFS\Testing\Samples\STM_API\STM.Core\obj\Release\netcoreapp2.0\STM.Core.pdb

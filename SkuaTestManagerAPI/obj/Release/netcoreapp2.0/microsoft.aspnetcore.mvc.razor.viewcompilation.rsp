@@ -1,0 +1,5 @@
+D:\TFS\Testing\Samples\STM_API\SkuaTestManagerAPI
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=STMAPI
+--content-root=D:\TFS\Testing\Samples\STM_API\SkuaTestManagerAPI
+--file=

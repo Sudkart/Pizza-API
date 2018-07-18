@@ -1,0 +1,14 @@
+D:\TFS\Testing\Samples\STM_API\SkuaTestManagerAPI\bin\Release\netcoreapp2.0\appsettings.json
+D:\TFS\Testing\Samples\STM_API\SkuaTestManagerAPI\bin\Release\netcoreapp2.0\STMAPI.deps.json
+D:\TFS\Testing\Samples\STM_API\SkuaTestManagerAPI\bin\Release\netcoreapp2.0\STMAPI.runtimeconfig.json
+D:\TFS\Testing\Samples\STM_API\SkuaTestManagerAPI\bin\Release\netcoreapp2.0\STMAPI.runtimeconfig.dev.json
+D:\TFS\Testing\Samples\STM_API\SkuaTestManagerAPI\bin\Release\netcoreapp2.0\STMAPI.dll
+D:\TFS\Testing\Samples\STM_API\SkuaTestManagerAPI\bin\Release\netcoreapp2.0\STMAPI.pdb
+D:\TFS\Testing\Samples\STM_API\SkuaTestManagerAPI\bin\Release\netcoreapp2.0\STM.Core.dll
+D:\TFS\Testing\Samples\STM_API\SkuaTestManagerAPI\bin\Release\netcoreapp2.0\STM.Core.pdb
+D:\TFS\Testing\Samples\STM_API\SkuaTestManagerAPI\obj\Release\netcoreapp2.0\STMAPI.csprojResolveAssemblyReference.cache
+D:\TFS\Testing\Samples\STM_API\SkuaTestManagerAPI\obj\Release\netcoreapp2.0\STMAPI.csproj.CoreCompileInputs.cache
+D:\TFS\Testing\Samples\STM_API\SkuaTestManagerAPI\obj\Release\netcoreapp2.0\STMAPI.AssemblyInfoInputs.cache
+D:\TFS\Testing\Samples\STM_API\SkuaTestManagerAPI\obj\Release\netcoreapp2.0\STMAPI.AssemblyInfo.cs
+D:\TFS\Testing\Samples\STM_API\SkuaTestManagerAPI\obj\Release\netcoreapp2.0\STMAPI.dll
+D:\TFS\Testing\Samples\STM_API\SkuaTestManagerAPI\obj\Release\netcoreapp2.0\STMAPI.pdb
