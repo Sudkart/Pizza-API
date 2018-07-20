@@ -23,19 +23,20 @@
     <PackageReference Include="byMarc.Net2.Library.ListItems" Version="2017.305.1" />
     <PackageReference Include="Dapper" Version="1.50.4" />
     <PackageReference Include="FluidDbClient.Sql" Version="1.1.2" />
-    <PackageReference Include="Microsoft.Extensions.Configuration" Version="2.0.0" />
-    <PackageReference Include="Microsoft.Extensions.Configuration.FileExtensions" Version="2.0.0" />
-    <PackageReference Include="Microsoft.Extensions.Configuration.Json" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore" Version="2.1.2" />
     <PackageReference Include="Npgsql" Version="3.2.6" />
     <PackageReference Include="OrientDB.Net.SqlCommandBuilder" Version="0.1.0" />
     <PackageReference Include="SQL" Version="1.0.0.1" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="4.4.1" />
+    <!-- Keep this -->
+    <DotNetCliToolReference Include="Microsoft.EntityFrameworkCore.Tools.DotNet"
+                            Version="2.0.1" />
   </ItemGroup>
 
   <ItemGroup>
-    <Reference Include="Microsoft.AspNetCore.Http.Abstractions">
+    <!--<Reference Include="Microsoft.AspNetCore.Http.Abstractions">
       <HintPath>C:\Users\Sudharshan\AppData\Local\Packages\Microsoft.SkypeApp_kzf8qxf38zg5c\LocalState\Downloads\Microsoft.AspNetCore.Http.Abstractions.dll</HintPath>
-    </Reference>
+    </Reference>-->
     <Reference Include="Npgsql.EntityFramework">
       <HintPath>..\..\..\Merge Design with PostGres\AF\AF\AutomationFramework\Bin\Npgsql.EntityFramework.dll</HintPath>
     </Reference>

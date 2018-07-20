@@ -22,3 +22,11 @@ D:\STM_API\STM.Core\obj\Debug\netcoreapp2.0\STM.Core.AssemblyInfoInputs.cache
 D:\STM_API\STM.Core\obj\Debug\netcoreapp2.0\STM.Core.AssemblyInfo.cs
 D:\STM_API\STM.Core\obj\Debug\netcoreapp2.0\STM.Core.dll
 D:\STM_API\STM.Core\obj\Debug\netcoreapp2.0\STM.Core.pdb
+D:\Pizza\STM_API\Pizza-API\STM.Core\bin\Debug\netcoreapp2.0\STM.Core.deps.json
+D:\Pizza\STM_API\Pizza-API\STM.Core\bin\Debug\netcoreapp2.0\STM.Core.dll
+D:\Pizza\STM_API\Pizza-API\STM.Core\bin\Debug\netcoreapp2.0\STM.Core.pdb
+D:\Pizza\STM_API\Pizza-API\STM.Core\obj\Debug\netcoreapp2.0\STM.Core.csproj.CoreCompileInputs.cache
+D:\Pizza\STM_API\Pizza-API\STM.Core\obj\Debug\netcoreapp2.0\STM.Core.AssemblyInfoInputs.cache
+D:\Pizza\STM_API\Pizza-API\STM.Core\obj\Debug\netcoreapp2.0\STM.Core.AssemblyInfo.cs
+D:\Pizza\STM_API\Pizza-API\STM.Core\obj\Debug\netcoreapp2.0\STM.Core.dll
+D:\Pizza\STM_API\Pizza-API\STM.Core\obj\Debug\netcoreapp2.0\STM.Core.pdb
